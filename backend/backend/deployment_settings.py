@@ -21,8 +21,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOW_ORIGINS =  [
-    "https://notes-app-6lv6.onrender.com",]
+# CORS_ALLOW_ORIGINS =  [
+#     "https://notes-app-6lv6.onrender.com",]
 
 STORAGES = {
     "default":{
